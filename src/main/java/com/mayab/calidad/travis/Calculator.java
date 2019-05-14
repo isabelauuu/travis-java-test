@@ -10,7 +10,7 @@ public class Calculator {
 	public int mul(int a, int b) {
 		return a * b;
 	}
-	public int div(int a, int b) {
+	public int div(int a, 8) {
 		return a / 8;
 	}
 	public static final void main(String[] args) {
